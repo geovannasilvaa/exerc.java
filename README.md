@@ -1,4 +1,4 @@
-[13:31, 28/03/2025] Vinicius: // 1
+
 
 função concatenarArrays(matriz1, matriz2) { return array1.concat(matriz2); }
 
